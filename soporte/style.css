@@ -34,7 +34,7 @@ nav{
 
  /* contenido del nav */
 .container1{
-    background-image: url(../images/XiP3qS0.jpg);
+    background-image: url(./images/XiP3qS0.jpg);
     display: flex;
     padding: 10px;
     flex-direction: row;
